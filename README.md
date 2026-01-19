@@ -122,7 +122,10 @@ pyinstaller --onefile --noconsole --name Network-API-Monitoring --uac-admin win_
 
 ### Exe Execution Video:
 
-[218561ce-294a-3561-b510-da21a8e85f05_custom.mp4](Windows%20Real-Time%20Network%20API%20Monitoring%20Tool/218561ce-294a-3561-b510-da21a8e85f05_custom.mp4)
+
+https://github.com/user-attachments/assets/61db1d25-bb09-4e59-b6eb-2a3885626d6a
+
+
 
 ---
 
