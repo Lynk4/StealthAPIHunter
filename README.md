@@ -1,6 +1,5 @@
 
-
-## ⚠️ Disclaimer 🚨
+# ⚠️ Disclaimer 🚨
 ---
 StealthAPIHunter is a security research and threat-hunting tool intended for **defensive, educational, and authorized testing purposes only** 🛡️📚.
 
