@@ -1,3 +1,30 @@
+
+# ⚠️ Disclaimer
+---
+StealthAPIHunter is a security research and threat-hunting tool intended for **defensive, educational, and authorized testing purposes only**.
+
+This project is designed to help security professionals detect suspicious outbound API activity, unauthorized executables, and anomalous process behavior. It **does not exploit vulnerabilities**, perform automatic blocking, or provide persistence mechanisms.
+
+## Important Notes
+
+* This tool may be flagged by antivirus or EDR solutions due to its behavioral monitoring techniques.
+* The provided executable is **unsigned** and may trigger security warnings.
+* Always verify binary hashes before execution.
+* Use only in environments you own or have explicit authorization to test.
+
+## No Warranty
+
+This software is provided **“as is”**, without warranty of any kind. The author assumes no responsibility for misuse, damage, or unintended consequences resulting from the use of this tool.
+
+## Responsibility
+
+You are solely responsible for ensuring compliance with all applicable laws, policies, and regulations when using StealthAPIHunter.
+
+If you are unsure whether you are authorized to run this tool in a given environment — **do not run it**.
+
+
+---
+
 # Windows Real-Time Network API Monitoring Tool
 
 ## 📋 Overview
