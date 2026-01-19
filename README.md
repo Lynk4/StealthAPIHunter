@@ -12,6 +12,15 @@ This project is designed to help security professionals detect suspicious outbou
 * Always verify binary hashes before execution 🔐.
 * Use only in environments you own or have explicit authorization to test 🏢✔️.
 
+## 🔐 Binary Hash (SHA256)
+
+Verify the integrity of the released executable before running it:
+
+Network-API-Monitoring.exe
+SHA256: 3807235929d543f455d6beb0ef7d0f7f52f49c34d9b1aa046c6fad78d39ed013
+
+---
+
 ## No Warranty ❌
 
 This software is provided **“as is”**, without warranty of any kind. The author assumes no responsibility for misuse, damage, or unintended consequences resulting from the use of this tool ⚖️.
