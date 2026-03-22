@@ -1,7 +1,7 @@
 
 # ⚠️ Disclaimer 🚨
 ---
-StealthAPIHunter is a security research and threat-hunting tool intended for **defensive, educational, and authorized testing purposes only** 🛡️📚.
+netprocmon is a security research and threat-hunting tool intended for **defensive, educational, and authorized testing purposes only** 🛡️📚.
 
 This project is designed to help security professionals detect suspicious outbound API activity, unauthorized executables, and anomalous process behavior. It **does not exploit vulnerabilities**, perform automatic blocking, or provide persistence mechanisms 🔍.
 
@@ -27,7 +27,7 @@ This software is provided **“as is”**, without warranty of any kind. The aut
 
 ## Responsibility 📌
 
-You are solely responsible for ensuring compliance with all applicable laws, policies, and regulations when using StealthAPIHunter 📜.
+You are solely responsible for ensuring compliance with all applicable laws, policies, and regulations when using netprocmon 📜.
 
 If you are unsure whether you are authorized to run this tool in a given environment — **do not run it** ⛔.
 
